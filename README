@@ -1,0 +1,13 @@
+***** DOCUMENTATION *****
+
+1> test1.py has all the code for trying out queries, remove all comments and run it once to see data in all the tables.
+
+2> Run boundary class first. Will call all other functions and classes.
+
+3> User sample login details:
+    username : sample
+    password : sample
+
+4> Owner sample login details:
+    username : mon_uni
+    password : monashuni
